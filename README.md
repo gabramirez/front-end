@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-<img src="" alt="exemplo imagem">
+<img src="Screenshot_7.png" alt="exemplo imagem">
 
 
 First, run the development server:
