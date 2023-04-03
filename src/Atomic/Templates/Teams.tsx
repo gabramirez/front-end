@@ -1,11 +1,11 @@
 import Header from "../Organism/Header";
 
-const HomeTemplate = () => {
+const Teams = () => {
   return (
     <div>
-      <Header></Header>
+      <Header />
     </div>
   );
 };
 
-export default HomeTemplate;
+export default Teams;
